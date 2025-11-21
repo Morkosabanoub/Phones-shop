@@ -31,7 +31,6 @@ startServer();
 
 // ===== GENERAL =====
 
-// إضافة مستخدم جديد مع تشفير الباسورد
 app.post("/api/general/users", async (req, res) => {
   try {
     const newUser = req.body;
@@ -40,7 +39,6 @@ app.post("/api/general/users", async (req, res) => {
     if (!doc)
       return res.status(404).json({ message: "General file not found" });
 
-    // تنظيف البريد وتشفير الباسورد
     newUser.email = newUser.email.trim().toLowerCase();
     newUser.password = await bcrypt.hash(newUser.password, 10);
 
@@ -266,11 +264,10 @@ langEndpoints.forEach((endpoint) => {
       res.status(500).json({ message: "Server error" });
     }
   });
-  // تحديث جزئي (PATCH) لمستخدم بالـ Username
   app.patch("/api/general/users/:username", async (req, res) => {
     try {
       const { username } = req.params;
-      const updates = req.body; // ممكن يكون { cart } أو { liked } أو أي فيلد تاني
+      const updates = req.body;
 
       const doc = await translationsCollection.findOne({ language: "general" });
       if (!doc)
@@ -282,7 +279,6 @@ langEndpoints.forEach((endpoint) => {
       if (index === -1)
         return res.status(404).json({ message: "User not found" });
 
-      // دمج التعديلات مع اليوزر الحالي
       doc.data.users[index] = { ...doc.data.users[index], ...updates };
 
       await translationsCollection.updateOne(
