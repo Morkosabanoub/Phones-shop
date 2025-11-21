@@ -1,0 +1,100 @@
+.Dashnavbar {
+  position: fixed;
+  display: flex;
+  top: 1%;
+  left: 16%;
+  right: 16%;
+  width: 83%;
+  height: 50px;
+  background-color: var(--color-bg);
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+  border-radius: var(--border-radius);
+  text-transform: capitalize;
+  z-index: 999;
+}
+
+.dashnavsearch {
+  display: flex;
+  width: 50%;
+  position: relative;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.dashsearch-icon {
+  position: absolute;
+  font-size: 20px;
+  top: 30%;
+  left: 85%;
+  right: 85%;
+  color: var(--color-primary);
+  animation: spin 2s linear infinite;
+  cursor: pointer;
+}
+
+
+.dashlang {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  order: 3;
+  margin: 0px 5px;
+  border-radius: 5px;
+
+
+}
+
+.dashcurrentlang {
+  cursor: pointer;
+  display: flex;
+  font-size: 25px;
+  padding: 1px 1px;
+  border-radius: 5px;
+  background: #fff;
+
+}
+
+.dashdroplang span,
+.dashcurrentlang span {
+  border-radius: 5px;
+}
+
+.dashdroplang {
+  position: absolute;
+  top: 100%;
+  left: -15%;
+  display: none;
+  flex-direction: column;
+  border-radius: 5px;
+  z-index: 10;
+  font-size: 25px;
+}
+
+.dashlang:hover .dashdroplang {
+  display: flex;
+}
+
+.dashdroplang button {
+  display: flex;
+  align-items: center;
+  padding: 5px 5px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+@media(max-width: 768px){
+  .Dashnavbar{
+    width: 90%;
+    left: 10%;
+    right: 0%;
+  }
+    .dashnavsearch{
+      width: 70%;
+    }
+  .dashsearch-icon{
+      left: 80%;
+      right: 80%;
+    }
+
+}

@@ -1,0 +1,38 @@
+.service-card {
+  height: 225px;
+  width: 100%;
+  text-align: center;
+  border-radius: var(--border-radius);
+  background-color: var(--color-bg);
+  text-transform: capitalize;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+  transition: transform 200ms ease, box-shadow 200ms ease;
+  will-change: transform, box-shadow;
+  transform: translateY(0);
+  touch-action: manipulation;
+  cursor: pointer;
+}
+.service-card:hover,
+.service-card:focus,
+.service-card:active {
+  transform: translateY(-10px); 
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+.service-card i,
+.service-card h3,
+.service-card p {
+  width: 98%;
+  height: 25%;
+  font-size: 50px;
+  color: var(--color-link);
+  margin: 10px auto;
+}
+.service-card h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.service-card p {
+  height: 50%;
+  font-size: 15px;
+}

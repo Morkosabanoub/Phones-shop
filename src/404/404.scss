@@ -1,0 +1,42 @@
+.PageNotFound {
+  width: 96%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.PageNotFound-img {
+  order: 1;
+  width: 50%;
+}
+.PageNotFound-img img {
+  width: 100%;
+}
+.PageNotFound-text {
+  width: 50%;
+  align-items: center;
+}
+.PageNotFound-text h1 {
+  width: 100%;
+  font-size: 80px;
+  color: var(--color-link);
+  white-space: wrap;
+}
+
+@media  (max-width: 767px) {
+  .PageNotFound {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .PageNotFound-img {
+    width: 100%;
+    order: 1;
+  }
+  .PageNotFound-text {
+    width: 100%;
+    order: 2;
+  }
+  .PageNotFound-text h1 {
+    font-size: 50px;
+  }
+}
+  

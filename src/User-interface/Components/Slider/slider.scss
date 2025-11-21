@@ -1,0 +1,39 @@
+.slidercontainer {
+  position: relative;
+  width: 96%;
+  height: auto;
+  background-color: var(--color-bg-accent);
+  margin: 20px 2%;
+  overflow: hidden;
+  border-radius: 20px;
+  margin-top: 90px;
+}
+
+.sliderinfo {
+  position: absolute;
+  width: auto;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 10%;
+  text-align: center;
+}
+
+.sliderimage {
+  width: 96%;
+  height: 450px;
+  margin: 0% 2%;
+  border-radius: var(--border-radius);
+}
+
+@media (max-width: 767px) {
+  .slidercontainer {
+    margin-top: 0px;
+  }
+  .sliderinfo {
+    width: 100%;
+  }
+  .sliderimage {
+    width: 100%;
+    height: auto;
+  }
+}
