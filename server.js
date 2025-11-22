@@ -6,7 +6,11 @@ import bcrypt from "bcrypt";
 const app = express();
 const port = 5000;
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://morkosabanoub.github.io",
+  })
+);
 app.use(express.json());
 
 const uri =
