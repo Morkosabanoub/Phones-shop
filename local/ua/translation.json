@@ -1,0 +1,1620 @@
+{
+  "text": {
+    "webname": "Назва вебсайту",
+    "Menu": "Меню",
+    "home": "Головна",
+    "phones": "Телефони",
+    "bestOffer": "Найкращі пропозиції",
+    "about": "Про нас",
+    "login": "Увійти",
+    "connectus": "Контакти",
+    "logout": "вихід",
+    "signup": "Зареєструватися",
+    "brands": "Бренди",
+    "brand": "бренд",
+    "dashboard": "Панель керування",
+    "addToCart": "Додати в кошик",
+    "addToFav": "Додати в обране",
+    "ratings": "Оцінки",
+    "LoadMore": "Показати більше",
+    "nospecifications": "Немає характеристик",
+    "noreviews": "Немає відгуків",
+    "Nophonesfound": "Телефони не знайдені",
+    "Loading": "Завантаження...",
+    "nophones": "Немає телефонів",
+    "noitemss": "Немає елементів",
+    "exploremoreoffers": "Перегляньте більше пропозицій",
+    "nobrand": "Немає бренду",
+    "forgotpassword": "Забули пароль?",
+    "noaccount": "Ще немає акаунта?",
+    "price": "Ціна:",
+    "Percentage": "%",
+    "readmore": "Докладніше",
+    "sucsignup": "Реєстрація успішна!",
+    "wronsignup": "Сталася помилка, спробуйте ще раз",
+    "firstName": "Ім'я",
+    "lastName": "Прізвище",
+    "Username": "Ім'я користувача",
+    "email": "Електронна пошта",
+    "phone": "Телефон",
+    "password": "Пароль",
+    "repeatPassword": "Повторіть пароль",
+    "terms": "Я погоджуюсь з умовами",
+    "passwordStrength": "Надійність пароля:",
+    "weak": "Слабкий",
+    "strong": "Сильний",
+    "medium": "Середній",
+    "invalidEmail": "Неправильна електронна пошта!",
+    "passnotmatch": "Паролі не співпадають!",
+    "currency": " ₴",
+    "installment": "Розстрочка:",
+    "delivery": "Доставка:",
+    "specifications": "Характеристики",
+    "Nophonesforthisbrand": "Немає телефонів цього бренду",
+    "Nooffersavailable": "Немає доступних пропозицій",
+    "description": "Ми пропонуємо найкращі смартфони з чудовими знижками.",
+    "rightsreserved": "© 2025 - Магазин телефонів | Всі права захищені",
+    "aboutus": "У [Назва сайту] ми прагнемо надати найкращий досвід онлайн-шопінгу у світі смартфонів та аксесуарів. Ми пропонуємо нашим клієнтам найновіші моделі від надійних світових брендів, таких як Apple, Samsung, Xiaomi, Oppo та інших, із гарантією якості та конкурентними цінами. Ми дбаємо про комфорт наших клієнтів завдяки винятковій службі підтримки, безпечним способам оплати та швидкій доставці просто до дверей. Наше бачення — стати першим місцем призначення для шанувальників технологій у регіоні та надати кожному клієнтові простий і безпечний досвід покупок, що відповідає його очікуванням.",
+    "slider": "Слайдер",
+    "dashbord": "панель",
+    "services": "Сервіси",
+    "failedtofetch": "❌ Не вдалося отримати дані",
+    "successfuladd": "✅ Успішно додано",
+    "failedadd": "❌ Не вдалося додати",
+    "successfulupdate": "✅ Успішно оновлено",
+    "failedupdate": "❌ Не вдалося оновити",
+    "successfulremove": "✅ Успішно видалено",
+    "failedremove": "❌ Не вдалося видалити",
+    "nobrandid": "⚠️ Немає бренду з таким ID або назвою",
+    "Searchbrand": "Пошук бренду",
+    "add": "Додати",
+    "update": "Оновити",
+    "remove": "Видалити",
+    "brandname": "Назва бренду",
+    "logolink": "Посилання на логотип бренду",
+    "addbrand": "Додати бренд",
+    "removethebrand": "⚠️ Ви впевнені, що хочете видалити бренд?",
+    "nodata": "⚠️ немає даних",
+    "Searchservice": "Пошук послуги",
+    "servicetitel": "Назва послуги",
+    "serviceicon": "Іконка послуги",
+    "addservice": "Додати послугу",
+    "service": "Послуга",
+    "noservice": "Послуг немає",
+    "removetheservice": "⚠️ Ви впевнені, що хочете видалити цю послугу?",
+    "servicetext": "Текст послуги",
+    "searchslider": "Пошук слайдера",
+    "slidertitel": "Назва слайдера",
+    "sliderimg": "Зображення слайдера",
+    "addslider": "Додати слайдер",
+    "noslider": "Слайдерів немає",
+    "fillinput": "Заповніть усі поля",
+    "removetheslider": "⚠️ Ви впевнені, що хочете видалити цей слайдер?",
+    "slidersubitel": "Підзаголовок слайдера",
+    "ourservice": "Наші послуги",
+    "search": "Пошук",
+    "installmentTrue": "Доступно",
+    "installmentFals": "Недоступно",
+    "addphone": "Додати телефон",
+    "nophone": "Телефонів немає",
+    "searchphone": "Пошук телефону",
+    "phoneid": "ID телефону",
+    "phonebrandid": "ID бренду",
+    "phonename": "Назва телефону",
+    "phoneprice": "Ціна",
+    "phonediscount": "Знижка",
+    "phoneinstallment": "Розстрочка",
+    "phoneimage": "URL зображення",
+    "phoneimages": "URL зображень",
+    "phoneshortdesc": "Короткий опис",
+    "phonedelivery": "Доставка",
+    "PageNotFoundtext": "Здається, ви загубилися у космосі",
+    "PageNotFoundbut": "Повернутися на Землю",
+    "conectus": "Зв’яжіться з нами",
+    "YourName": "Ваше ім'я",
+    "Youremail": "Ваша електронна пошта",
+    "YourMessage": "Ваше повідомлення",
+    "Send": "Відправити",
+    "Namerequired": "Ім'я обов'язкове",
+    "Emailrequired": "Електронна пошта обов'язкова",
+    "Invalidemail": "Неправильна електронна пошта",
+    "Messagerequired": "Повідомлення обов'язкове",
+    "loginnote1" : "Ви можете зареєструватися як користувач або увійти як адміністратор",
+    "loginnote2" : "Email: admin@phoneshop.com| Пароль: 123456"
+
+
+  },
+
+  "company": {
+    "name": "PhoneShop",
+    "address": "вул. Технологічна, 123, Каїр, Єгипет",
+    "phone": "+20 100 123 4567",
+    "email": "info@phoneshop.com",
+    "social": {
+      "facebook": "https://facebook.com/phoneshop",
+      "instagram": "https://instagram.com/phoneshop",
+      "twitter": "https://twitter.com/phoneshop"
+    }
+  },
+  "slider": [
+    {
+      "id": 1,
+      "title": "Найновіші смартфони",
+      "subtitle": "Відкрийте для себе нові моделі",
+      "image": "https://salamtec.pk/wp-content/uploads/2025/07/Apple-Slider1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Дивовижні пропозиції",
+      "subtitle": "До 50% знижки на окремі телефони",
+      "image": "https://salamtec.pk/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-17-at-2.52.21-PM.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Швидка доставка",
+      "subtitle": "Отримайте ваш телефон протягом 24 годин",
+      "image": "https://salamtec.pk/wp-content/uploads/2025/07/slider-1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Топові бренди",
+      "subtitle": "Samsung, Apple, Xiaomi та інші",
+      "image": "https://salamtec.pk/wp-content/uploads/2025/08/HONOR-PARTNERSHIP-BANNER.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ексклюзивні пропозиції",
+      "subtitle": "Спеціальні знижки для учасників",
+      "image": "https://salamtec.pk/wp-content/uploads/2025/09/slider-2.jpg"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "logo": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "logo": "https://logo.clearbit.com/samsung.com"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi",
+      "logo": "https://logo.clearbit.com/mi.com"
+    },
+    {
+      "id": 4,
+      "name": "Oppo",
+      "logo": "https://cdn.shortpixel.ai/spai/w_133+q_glossy+ret_img+to_webp/mobizil.com/logos/oppo2.png"
+    },
+    {
+      "id": 5,
+      "name": "Huawei",
+      "logo": "https://logo.clearbit.com/huawei.com"
+    },
+    {
+      "id": 6,
+      "name": "Realme",
+      "logo": "https://logo.clearbit.com/realme.com"
+    },
+    {
+      "id": 7,
+      "name": "OnePlus",
+      "logo": "https://logo.clearbit.com/oneplus.com"
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "brandId": 1,
+      "name": "iPhone 15 Pro",
+      "price": 1200,
+      "discount": 300,
+      "installment": false,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2023/09/iPhone-15-Pro-Max-2.jpg"
+      ],
+      "images": [
+        "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-230912_inline.jpg.large_2x.jpg",
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg",
+        "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-230912_inline.jpg.large_2x.jpg",
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg"
+      ],
+      "shortDesc": "Найкращий телефон від Apple з високою продуктивністю та відмінною камерою",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "A17 Bionic"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінний і дуже швидкий" },
+        { "user": "Сара", "comment": "Камера чудова" }
+      ]
+    },
+    {
+      "id": 2,
+      "brandId": 1,
+      "name": "iPhone 15",
+      "price": 999,
+      "discount": 0,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2023/09/iPhone-15-3.jpg"
+      ],
+      "images": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2023/09/iPhone-15-3.jpg"
+      ],
+      "shortDesc": "Економічна версія iPhone 15 з потужними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "A17 Bionic"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Мухаммед", "comment": "Хороша ціна за продуктивність" },
+        { "user": "Лейла", "comment": "Легкий і швидкий" }
+      ]
+    },
+    {
+      "id": 3,
+      "brandId": 1,
+      "name": "iPhone 14 Pro",
+      "price": 1099,
+      "discount": 80,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iiPhone-14-Pro-Max.jpg",
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною камерою та високою швидкістю обробки",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "A16 Bionic"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна якість" },
+        { "user": "Нур", "comment": "Чудовий досвід" }
+      ]
+    },
+    {
+      "id": 4,
+      "brandId": 1,
+      "name": "iPhone 14",
+      "price": 899,
+      "discount": 300,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-1-220907_inline.jpg.large.jpg"
+      ],
+      "shortDesc": "Економічна версія iPhone 14 з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "A16 Bionic"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "4GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Юсеф", "comment": "Хороша ціна" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 5,
+      "brandId": 1,
+      "name": "iPhone 13 Pro",
+      "price": 799,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13pro_family_hero.png.large.jpg",
+        "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-13-pro_09142021_big.jpg.large.jpg"
+      ],
+      "shortDesc": "Хороший телефон зі стабільною продуктивністю та хорошою камерою",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "A15 Bionic"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "4GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Відмінна продуктивність" },
+        { "user": "Сара", "comment": "Камера чудова" }
+      ]
+    },
+    {
+      "id": 6,
+      "brandId": 2,
+      "name": "Samsung Galaxy S23",
+      "price": 1100,
+      "discount": 90,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.samsungmobilepress.com/resource/image/2023/02/02/001_galaxy_s23_front_cream.jpg",
+        "https://www.samsungmobilepress.com/resource/image/2023/02/02/002_galaxy_s23_back_cream.jpg"
+      ],
+      "shortDesc": "Флагманський телефон Samsung з передовою камерою",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Халід", "comment": "Відмінне фото" },
+        { "user": "Рана", "comment": "Висока швидкість" }
+      ]
+    },
+    {
+      "id": 7,
+      "brandId": 2,
+      "name": "Samsung Galaxy S23+",
+      "price": 1200,
+      "discount": 100,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.samsungmobilepress.com/resource/image/2023/02/02/001_galaxy_s23plus_front_lavender.jpg",
+        "https://www.samsungmobilepress.com/resource/image/2023/02/02/002_galaxy_s23plus_back_lavender.jpg"
+      ],
+      "shortDesc": "Більша та потужніша версія S23",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Ахмед", "comment": "Дуже потужний" },
+        { "user": "Маха", "comment": "Дивовижна камера" }
+      ]
+    },
+    {
+      "id": 8,
+      "brandId": 2,
+      "name": "Samsung Galaxy S22",
+      "price": 899,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://design.samsung.com/global/contents/galaxy-s22/images/064_galaxys22_front_violet.jpg",
+        "https://design.samsung.com/global/contents/galaxy-s22/images/065_galaxys22_front2_violet.jpg"
+      ],
+      "shortDesc": "Хороший телефон з відмінною продуктивністю та прийнятною ціною",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Exynos 2100"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Сальма", "comment": "Добре" },
+        { "user": "Омар", "comment": "Чудова камера" }
+      ]
+    },
+    {
+      "id": 9,
+      "brandId": 2,
+      "name": "Samsung Galaxy A54",
+      "price": 499,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A54-5G.jpg"
+      ],
+      "images": [
+        "https://www.samsungmobilepress.com/resource/image/2023/03/15/001-galaxy-a54-5g-amazing-lime-front.jpg",
+        "https://www.samsungmobilepress.com/resource/image/2023/03/15/002-galaxy-a54-5g-amazing-lime-back.jpg"
+      ],
+      "shortDesc": "Середнього рівня телефон з відмінними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Exynos 1380"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Хороша ціна" },
+        { "user": "Хані", "comment": "Відмінне обслуговування" }
+      ]
+    },
+    {
+      "id": 10,
+      "brandId": 2,
+      "name": "Samsung Galaxy A34",
+      "price": 399,
+      "discount": 0,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.samsungmobilepress.com/resource/image/2023/03/15/001-galaxy-a34-5g-amazing-lime-front.jpg",
+        "https://www.samsungmobilepress.com/resource/image/2023/03/15/002-galaxy-a34-5g-amazing-lime-back.jpg"
+      ],
+      "shortDesc": "Хороший економічний телефон",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 1080"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 11,
+      "brandId": 3,
+      "name": "Xiaomi 13 Pro",
+      "price": 950,
+      "discount": 450,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-13-pro/xiaomi-13-pro-1.jpg",
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-13-pro/xiaomi-13-pro-2.jpg"
+      ],
+      "shortDesc": "Відмінна продуктивність та потужна камера",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 12,
+      "brandId": 3,
+      "name": "Xiaomi 13",
+      "price": 850,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-13/xiaomi-13-1.jpg",
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-13/xiaomi-13-2.jpg"
+      ],
+      "shortDesc": "Економічний телефон з відмінними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна ціна" },
+        { "user": "Лейла", "comment": "Хороша продуктивність" }
+      ]
+    },
+    {
+      "id": 13,
+      "brandId": 3,
+      "name": "Xiaomi 12 Pro",
+      "price": 750,
+      "discount": 40,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-12-pro/xiaomi-12-pro-1.jpg",
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-12-pro/xiaomi-12-pro-2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з хорошою камерою",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Відмінна продуктивність" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 14,
+      "brandId": 3,
+      "name": "Xiaomi 12",
+      "price": 650,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-12/xiaomi-12-1.jpg",
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/xiaomi-12/xiaomi-12-2.jpg"
+      ],
+      "shortDesc": "Економічна версія з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 15,
+      "brandId": 3,
+      "name": "Xiaomi 11",
+      "price": 550,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/mi-11/mi-11-1.jpg",
+        "https://www.mi.com/content/dam/xiaomi/global/product-overview/mi-11/mi-11-2.jpg"
+      ],
+      "shortDesc": "Хороший телефон зі середньою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 888"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 16,
+      "brandId": 4,
+      "name": "Oppo Find X6 Pro",
+      "price": 950,
+      "discount": 70,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2023/05/Oppo-Find-X6-Pro.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/find-series/find-x6-pro/v1/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/find-series/find-x6-pro/v1/assets/images-2.jpg"
+      ],
+
+      "shortDesc": "Флагманський телефон з передовою камерою",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 17,
+      "brandId": 4,
+      "name": "Oppo Find X6",
+      "price": 850,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/find-series/find-x6/v1/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/find-series/find-x6/v1/assets/images-2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 18,
+      "brandId": 4,
+      "name": "Oppo Reno 10 Pro",
+      "price": 650,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno-series/reno10-pro/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno-series/reno10-pro/assets/images-2.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Добре" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 19,
+      "brandId": 4,
+      "name": "Oppo Reno 10",
+      "price": 550,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno-series/reno10/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno-series/reno10/assets/images-2.jpg"
+      ],
+      "shortDesc": "Економічний телефон із середньою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 920"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 20,
+      "brandId": 4,
+      "name": "Oppo A98",
+      "price": 450,
+      "discount": 15,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/series-a/a98-5g/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/series-a/a98-5g/assets/images-2.jpg"
+      ],
+      "shortDesc": "Хороший економічний телефон",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 920"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 21,
+      "brandId": 4,
+      "name": "Oppo A98",
+      "price": 450,
+      "discount": 15,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/series-a/a98-5g/assets/images-1.jpg",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/series-a/a98-5g/assets/images-2.jpg"
+      ],
+      "shortDesc": "Хороший економічний телефон",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 920"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 22,
+      "brandId": 5,
+      "name": "Huawei P60",
+      "price": 800,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/p60/images/p60-1.jpg",
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/p60/images/p60-2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Kirin 9000S"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 23,
+      "brandId": 5,
+      "name": "Huawei Mate 50 Pro",
+      "price": 750,
+      "discount": 40,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/mate50-pro/images/mate50-pro-1.jpg",
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/mate50-pro/images/mate50-pro-2.jpg"
+      ],
+      "shortDesc": "Преміальний телефон з відмінними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Відмінна продуктивність" },
+        { "user": "Мона", "comment": "Чудова камера" }
+      ]
+    },
+    {
+      "id": 24,
+      "brandId": 5,
+      "name": "Huawei Mate 50",
+      "price": 650,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/mate50/images/mate50-1.jpg",
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/phones/mate50/images/mate50-2.jpg"
+      ],
+      "shortDesc": "Економічна версія з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "极客",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 25,
+      "brandId": 5,
+      "name": "Huawei Nova 11",
+      "price": 500,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.gsmarena.com/imgroot/reviews/23/huawei-nova-11/lifestyle/-1024w2/gsmarena_001.jpg",
+        "https://www.gsmarena.com/imgroot/reviews/23/huawei-nova-11/lifestyle/-1024w2/gsmarena_002.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Kirin 9000"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Dana", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 26,
+      "brandId": 6,
+      "name": "Realme GT 3 Pro",
+      "price": 700,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-gt3-pro/assets/images-1.jpg",
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-gt3-pro/assets/images-2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "极客": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 27,
+      "brandId": 6,
+      "name": "Realme GT 3",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 600,
+      "discount": 40,
+      "installment": true,
+      "images": [
+        "https://www.realme.com/content/dam/realme-images/global/product/极客-gt3/assets/images-1.jpg",
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-gt3/assets/images-2.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 28,
+      "brandId": 6,
+      "name": "Realme 12 Pro",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads极客/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 500,
+      "discount": 30,
+      "installment": true,
+      "images": [
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-12-pro/assets/images-1.jpg",
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-12-pro/assets/images-2.jpg"
+      ],
+      "shortDesc": "Економічний телефон з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8极客" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Добре" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 29,
+      "brandId": 6,
+      "name": "Realme 12",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 400,
+      "discount": 20,
+      "installment": true,
+      "images": [
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-12/assets/images-极客.jpg",
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-12/assets/images-2.jpg"
+      ],
+      "shortDesc": "Економічна версія з середніми характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 920"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews极客": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 30,
+      "brandId": 6,
+      "name": "Realme 11",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img极客_webp/mobizil.com/wp-content/uploads/2022极客/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 350,
+      "discount": 15,
+      "installment": true,
+      "images": [
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-11/assets/images-1.jpg",
+        "https://www.realme.com/content/dam/realme-images/global/product/realme-11/assets/images-2.jpg"
+      ],
+      "shortDesc": "Хороший економічний телефон",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 920"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "6GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "48MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 31,
+      "brandId": 7,
+      "name": "OnePlus 11 Pro",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 950,
+      "discount": 70,
+      "installment": true,
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11-pro/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11极客/2.jpg"
+      ],
+      "shortDesc": "Флагманський телефон з відмінними характеристиками",
+      "del极客": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 32,
+      "brandId": 7,
+      "name": "OnePlus 11",
+      "price": 850,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro极客.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus极客/global/contents/oneplus-11/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11/2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 33,
+      "brandId": 7,
+      "name": "OnePlus 10 Pro",
+      "price": 750,
+      "discount": 40,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "极客": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10-pro/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global极客/contents/oneplus-10-pro/2.jpg"
+      ],
+      "shortDesc": "Преміальний телефон з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid极客-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Добре" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 34,
+      "brandId": 7,
+      "name": "OnePlus 10",
+      "price": 650,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/2.jpg"
+      ],
+      "shortDesc": "Економічна версія з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 35,
+      "brandId": 7,
+      "name": "OnePlus Nord 3",
+      "price": 500,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil极客/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/2.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP极客" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 36,
+      "brandId": 1,
+      "name": "OnePlus 11 Pro",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 950,
+      "discount": 70,
+      "installment": true,
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11-pro/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11-pro/2.jpg"
+      ],
+      "shortDesc": "Флагманський телефон з відмінними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "极客", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 37,
+      "brandId": 1,
+      "极客": "OnePlus 11",
+      "price": 850,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_web极客/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11/2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 38,
+      "brandId": 1,
+      "name": "OnePlus 10 Pro",
+      "price": 750,
+      "discount": 40,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10-pro/1.jpg",
+        "https://www.oneplus.com/content极客/dam/oneplus/global/contents/oneplus-10-pro/2.jpg"
+      ],
+      "shortDesc": "Преміальний телефон з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "极客": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Добре" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 39,
+      "brandId": 1,
+      "name": "OnePlus 10",
+      "price": 750,
+      "discount": 30,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-i极客-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/2.jpg"
+      ],
+      "shortDesc": "Економічна версія з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 40,
+      "brandId": 1,
+      "name": "OnePlus Nord 3",
+      "price": 500,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/2极客.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 41,
+      "brandId": 1,
+      "name": "OnePlus Nord 3",
+      "price": 500,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus极客-nord-3/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/2.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 42,
+      "brandId": 1,
+      "name": "OnePlus 11 Pro",
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "price": 950,
+      "discount": 70,
+      "installment": true,
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11-pro/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11-pro/2.jpg"
+      ],
+      "shortDesc": "Флагманський телефон з відмінними характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB极客" },
+        { "极客": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Алі", "comment": "Відмінна якість" },
+        { "user": "Сара", "comment": "Потужна камера" }
+      ]
+    },
+    {
+      "id": 43,
+      "brandId": 1,
+      "name": "OnePlus 11",
+      "price": 850,
+      "discount": 50,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy极客ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-11/1.jpg",
+        "https极客//www.oneplus.com/content/dam/oneplus/global/contents/极客-11/2.jpg"
+      ],
+      "shortDesc": "Потужний телефон з відмінною продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs极客": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8 Gen 2"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Омар", "comment": "Відмінна продуктивність" },
+        { "user": "Лейла", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 44,
+      "brandId": 1,
+      "name": "OnePlus 10 Pro",
+      "price": 750,
+      "discount": 40,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10-pro/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10-pro/2.jpg"
+      ],
+      "shortDesc": "Преміальний телефон з хорошою продуктивністю",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "12GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "200MP" }
+      ],
+      "reviews": [
+        { "user": "Хасан", "comment": "Добре" },
+        { "user": "Мона", "comment": "Хороша камера" }
+      ]
+    },
+    {
+      "id": 45,
+      "brandId": 1,
+      "name": "OnePlus 10",
+      "price": 650,
+      "discount": 30,
+      "installment": true,
+      "极客": [
+        "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/1.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-10/2.jpg"
+      ],
+      "shortDesc": "Економічна версія з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "108MP" }
+      ],
+      "reviews": [
+        { "user": "Яра", "comment": "Прийнятна ціна" },
+        { "user": "Хані", "comment": "Добре для початківців" }
+      ]
+    },
+    {
+      "id": 46,
+      "brandId": 1,
+      "name": "OnePlus Nord 3",
+      "price": 500,
+      "discount": 20,
+      "installment": true,
+      "image": [
+        "https://cdn.shortpixel.ai/spai/q_гlossy+ret_img+to_webp/mobizil.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg"
+      ],
+      "images": [
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/极客.jpg",
+        "https://www.oneplus.com/content/dam/oneplus/global/contents/oneplus-nord-3/2.jpg"
+      ],
+      "shortDesc": "Телефон середнього рівня з хорошими характеристиками",
+      "delivery": "Доставка протягом 24 годин",
+      "specs": [
+        {
+          "icon": "fa-solid fa-microchip",
+          "title": "Процесор",
+          "value": "MediaTek Dimensity 9200"
+        },
+        { "icon": "fa-solid fa-memory", "title": "ОЗП", "value": "8GB" },
+        { "icon": "fa-solid fa-camera", "title": "Камера", "value": "50MP" }
+      ],
+      "reviews": [
+        { "user": "Дана", "comment": "Відмінна ціна" },
+        { "user": "Нур", "comment": "Добре для початківців" }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Регулярне технічне обслуговування",
+      "text": "Комплексні рішення для технічного обслуговування ваших сайтів та додатків",
+      "icon": "fa-solid fa-screwdriver-wrench"
+    },
+    {
+      "id": 2,
+      "title": "Швидка доставка",
+      "text": "Доставка замовлень протягом 24 годин",
+      "icon": "fa-solid fa-truck-fast"
+    },
+    {
+      "id": 3,
+      "title": "Гарантія на рік",
+      "text": "Комплексна гарантія на всі продукти",
+      "icon": "fa-solid fa-shield"
+    },
+    {
+      "id": 4,
+      "title": "Легкий повернення",
+      "text": "Повернення товарів протягом 14 днів",
+      "icon": "fa-solid fa-rotate-left"
+    }
+  ]
+}
