@@ -26,7 +26,7 @@ app.use(
 
 app.use(express.json());
 
-const client = new MongoClient(process.env.MONGO_URL);
+const client = new MongoClient(process.env.MONGO_URI);
 
 let translationsCollection;
 
