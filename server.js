@@ -8,7 +8,15 @@ const port = 5000;
 
 app.use(
   cors({
-    origin: "https://morkosabanoub.github.io",
+    origin: [
+      "https://morkosabanoub.github.io",
+      "http://localhost:5173",
+      "http://localhost:3000",
+      "http://localhost:8080",
+      "http://127.0.0.1:5173",
+      "http://127.0.0.1:3000",
+    ],
+    credentials: true,
   })
 );
 app.use(express.json());
