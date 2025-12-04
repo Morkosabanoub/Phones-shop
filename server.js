@@ -2,12 +2,9 @@ import express from "express";
 import cors from "cors";
 import { MongoClient } from "mongodb";
 import bcrypt from "bcrypt";
-import dotenv from "dotenv";
-
-dotenv.config();
 
 const app = express();
-const port = process.env.PORT || 5000;
+const port = 5000;
 
 app.use(
   cors({
@@ -23,10 +20,11 @@ app.use(
     credentials: true,
   })
 );
-
 app.use(express.json());
 
-const client = new MongoClient(process.env.mongouri);
+const uri =
+  "mongodb+srv://Morkosabanoub:Fullstack2025@cluster0.yh0mmvo.mongodb.net/?appName=Cluster0";
+const client = new MongoClient(uri);
 
 let translationsCollection;
 
@@ -36,7 +34,6 @@ async function startServer() {
     const db = client.db("translationsDB");
     translationsCollection = db.collection("translations");
     console.log("MongoDB connected!");
-
     app.listen(port, () => console.log(`Server running on port ${port}`));
   } catch (err) {
     console.error("MongoDB connection failed:", err);
@@ -45,8 +42,9 @@ async function startServer() {
 
 startServer();
 
-/* ========== GENERAL CRUD ========== */
+// ===== GENERAL =====
 
+// إضافة مستخدم جديد مع تشفير الباسورد
 app.post("/api/general/users", async (req, res) => {
   try {
     const newUser = req.body;
@@ -55,6 +53,7 @@ app.post("/api/general/users", async (req, res) => {
     if (!doc)
       return res.status(404).json({ message: "General file not found" });
 
+    // تنظيف البريد وتشفير الباسورد
     newUser.email = newUser.email.trim().toLowerCase();
     newUser.password = await bcrypt.hash(newUser.password, 10);
 
@@ -87,6 +86,7 @@ app.get("/api/general/users", async (req, res) => {
   }
 });
 
+// تسجيل دخول المستخدم
 app.post("/api/general/signin", async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -112,6 +112,7 @@ app.post("/api/general/signin", async (req, res) => {
   }
 });
 
+// تعديل بيانات مستخدم بالـ Username
 app.put("/api/general/users/:username", async (req, res) => {
   try {
     const { username } = req.params;
@@ -127,6 +128,7 @@ app.put("/api/general/users/:username", async (req, res) => {
     if (index === -1)
       return res.status(404).json({ message: "User not found" });
 
+    // تشفير الباسورد لو تم تغييره
     if (updates.password) {
       updates.password = await bcrypt.hash(updates.password, 10);
     }
@@ -148,6 +150,7 @@ app.put("/api/general/users/:username", async (req, res) => {
   }
 });
 
+// حذف مستخدم بالـ Username
 app.delete("/api/general/users/:username", async (req, res) => {
   try {
     const { username } = req.params;
@@ -172,8 +175,7 @@ app.delete("/api/general/users/:username", async (req, res) => {
   }
 });
 
-/* ========== LANGUAGES CRUD ========== */
-
+// ===== LANGUAGES CRUD =====
 const langEndpoints = [
   "users",
   "phones",
@@ -185,6 +187,7 @@ const langEndpoints = [
 ];
 
 langEndpoints.forEach((endpoint) => {
+  // GET
   app.get(`/api/translations/:lang/${endpoint}`, async (req, res) => {
     const { lang } = req.params;
     try {
@@ -198,6 +201,7 @@ langEndpoints.forEach((endpoint) => {
     }
   });
 
+  // POST
   app.post(`/api/translations/:lang/${endpoint}`, async (req, res) => {
     const { lang } = req.params;
     const newItem = req.body;
@@ -222,6 +226,7 @@ langEndpoints.forEach((endpoint) => {
     }
   });
 
+  // PUT
   app.put(`/api/translations/:lang/${endpoint}/:id`, async (req, res) => {
     const { lang, id } = req.params;
     const updates = req.body;
@@ -235,10 +240,7 @@ langEndpoints.forEach((endpoint) => {
       if (index === -1)
         return res.status(404).json({ message: `${endpoint} not found` });
 
-      doc.data[endpoint][index] = {
-        ...doc.data[endpoint][index],
-        ...updates,
-      };
+      doc.data[endpoint][index] = { ...doc.data[endpoint][index], ...updates };
 
       await translationsCollection.updateOne(
         { language: lang },
@@ -255,6 +257,7 @@ langEndpoints.forEach((endpoint) => {
     }
   });
 
+  // DELETE
   app.delete(`/api/translations/:lang/${endpoint}/:id`, async (req, res) => {
     const { lang, id } = req.params;
     try {
@@ -276,11 +279,11 @@ langEndpoints.forEach((endpoint) => {
       res.status(500).json({ message: "Server error" });
     }
   });
-
+  // تحديث جزئي (PATCH) لمستخدم بالـ Username
   app.patch("/api/general/users/:username", async (req, res) => {
     try {
       const { username } = req.params;
-      const updates = req.body;
+      const updates = req.body; // ممكن يكون { cart } أو { liked } أو أي فيلد تاني
 
       const doc = await translationsCollection.findOne({ language: "general" });
       if (!doc)
@@ -292,10 +295,8 @@ langEndpoints.forEach((endpoint) => {
       if (index === -1)
         return res.status(404).json({ message: "User not found" });
 
-      doc.data.users[index] = {
-        ...doc.data.users[index],
-        ...updates,
-      };
+      // دمج التعديلات مع اليوزر الحالي
+      doc.data.users[index] = { ...doc.data.users[index], ...updates };
 
       await translationsCollection.updateOne(
         { language: "general" },
